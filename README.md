@@ -1,5 +1,5 @@
 # Rain Prediction
-[March 2023]
+24th April 2024
 
 This project was done as a part of the Honors portion of the IBM Machine Learning Course on Coursera
 ### Built a classifier to predict whether there will be rain the following day or not.
@@ -27,4 +27,4 @@ Evaluated the models using:
 6.  Mean Squared Error
 7.  R2-Score
 
-<code> Ayush Priyam</code>
+<code> Nuraini Usman </code>
