@@ -1,5 +1,4 @@
 # Rain Prediction
-24th April 2024
 
 This project was done as a part of the Honors portion of the IBM Machine Learning Course on Coursera
 ### Built a classifier to predict whether there will be rain the following day or not.
